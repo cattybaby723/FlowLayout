@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">FlowLayout2</string>
+    <string name="app_name">FlowLayout</string>
+    <string name="test_center_vertical">gravity: Center-Vertical</string>
+    <string name="test_center_horizontal">gravity: Center-Horizontal</string>
+
+    <string name="test_sentences">
+        紅鯉魚與綠鯉魚與驢。
+        吃葡萄不吐葡萄皮，不吃葡萄倒吃葡萄皮。
+        和尚端湯上塔，塔滑湯灑湯燙塔。
+    </string>
 </resources>
